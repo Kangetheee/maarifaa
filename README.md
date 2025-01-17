@@ -55,7 +55,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Kangetheee/maarifa.git
-   cd animated-website
+   cd maarifa
    ```
 
 2. Install dependencies:
